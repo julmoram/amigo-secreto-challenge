@@ -1,4 +1,6 @@
 ![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/7c1f8835-6d88-4685-99b9-20e2fa946c33)
+
+
 Características ✨
 Agregar amigos: Ingresa nombres en el campo de texto y añádelos a la lista.
 
